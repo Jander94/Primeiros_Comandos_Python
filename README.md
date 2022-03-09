@@ -1,2 +1,2 @@
-# Primeiros_Comandos_Python
- Aprendizado inicial em Python
+# Primeiros Comandos em Python
+ Aprendizado inicial
